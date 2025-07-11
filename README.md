@@ -1,3 +1,10 @@
+![Status](https://img.shields.io/badge/Deprecated-brown)
+
+> [!CAUTION]
+> This repository is no longer maintained.
+
+The documentation below is provided for historical reference only.
+
 # XMTP Website Starter Kit
 
 This web starter is built using [Docusaurus 2](https://docusaurus.io/) and [Tailwind CSS](https://tailwindcss.com/docs/installation).
